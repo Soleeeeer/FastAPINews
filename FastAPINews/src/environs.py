@@ -11,5 +11,3 @@ DB_PASSWORD = os.getenv("DB_PASSWORD", "password")
 DB_HOST = os.getenv("DB_HOST", "localhost")
 DB_PORT = os.getenv("DB_PORT", "5432")
 
-JWT_SECRET = os.getenv("JWT_SECRET", "SECRET")
-USER_MANAGER_SECRET = os.getenv("USER_MANAGER_SECRET", "SECRET")

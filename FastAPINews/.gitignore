@@ -23,7 +23,7 @@ debug.log
 *.sqlite3
 *.db
 
-# Кэш MyPy и других инструментов
+# Кэш mypy и других инструментов
 .mypy_cache/
 .pytest_cache/
 .tox/
